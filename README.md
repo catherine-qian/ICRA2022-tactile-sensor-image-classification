@@ -2,6 +2,8 @@
 pytorch implementation for ICRA2022 submission：
 Task: binary classifiy an image sequence (captured by a tactile sensor) into hard/soft decision.
 
+Code will be updated soon...
+
 
 
 
